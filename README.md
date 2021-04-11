@@ -1,7 +1,7 @@
-# Funções estatísticas com Python + pandas
+# Statistical functions with Python + pandas
 
-Estatísticas são a base de ciência de dados! 
+Statistics are the basis of data science!
 
-Trouxe algumas funções básicas para mostrar a facilidade da programação. 
+It brought some basic functions to show the ease of programming.
 
-Repare como as funções fazem sentido com o nome em inglês! Isso facilita muito a programação e a busca por ajuda!
+Notice how the functions make sense with the English name! This makes programming and seeking help a lot easier!
